@@ -15,4 +15,5 @@ npm i bcrypt
 ### Client
 ```
 npm i axios
+npm install react-router-dom localforage match-sorter sort-by
 ```
