@@ -5,15 +5,14 @@
 
 ### server
 ```
-npm i express
-npm i body-parser
-npm i cors
-npm i mysql2
-npm i jsonwebtoken
-npm i bcrypt
+npm i express body-parser cors mysql2 jsonwebtoken bcrypt
 ```
 ### Client
 ```
 npm i axios
 npm install react-router-dom localforage match-sorter sort-by
+```
+## Framework & Library
+```
+Tailwind css
 ```
